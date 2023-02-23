@@ -1,0 +1,8 @@
+C:\howework\Final\Final\bin\Debug\Final.exe.config
+C:\howework\Final\Final\bin\Debug\Final.exe
+C:\howework\Final\Final\bin\Debug\Final.pdb
+C:\howework\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\howework\Final\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+C:\howework\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\howework\Final\Final\obj\Debug\Final.exe
+C:\howework\Final\Final\obj\Debug\Final.pdb
